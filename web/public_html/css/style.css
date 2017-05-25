@@ -59,9 +59,15 @@ li{
 }
 
 #intro{
-    background-color: #feafea;
+    background-color: #fff;
+}
+#services{
+    background-color: #f6f9f8;
 }
 
+#case-study{
+    background-color: #fff;
+}
 header{
     display:block;
     position:relative;
@@ -99,5 +105,23 @@ nav li{
   line-height:50px;
 }
 
+.swiss{
+   border-top: 2px solid #000;
+   width:50px;
+   
+}
+.boxed{
+    width:25%;
+    background-color: #fff;
+}
 
+ul>li{
+    display:inline-block;  
+    
+}
 
+.item{
+    width:100%;
+   
+  
+}
