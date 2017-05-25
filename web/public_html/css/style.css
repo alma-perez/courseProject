@@ -2,7 +2,7 @@
 courseProject 
 Alma Pérez 23.05.17
 */
-
+ 
 /*reset*********/
 
 *{
@@ -11,9 +11,31 @@ Alma Pérez 23.05.17
     box-sizing: border-box;
 }
 
+
+/*fonts*********/
+h1{font-size: 50px; font-weight: 700px}
+h2{}
+h3{}
+h4{}
+h5{}
+h6{}
+h7{}
+
+p{}
+
+
+/*global*********/
+
+.content{
+    max-width:1200px;
+    margin:0 auto;
+    padding:20px;
+}
+
 body{
-    font-family: sans-serif;
-    background-color: #f9f9f9;
+    font-family:'Poppins', sans-serif;
+    font-size:14px;
+    font-weight: 300;   
 }
 
 a {
@@ -24,3 +46,58 @@ a {
 li{
     list-style: none;
 }
+
+/*repository*********/
+
+
+#slider{
+    background:url(../assets/images/hd-3.jpg) no-repeat center;
+    background-size: cover;
+    width: 100%;
+    height: 600px;
+    overflow: hidden;
+}
+
+#intro{
+    background-color: #feafea;
+}
+
+header{
+    display:block;
+    position:relative;
+    overflow: hidden;
+}
+
+.fixed{
+    position:fixed;
+    top:0px;
+    width: 100%;
+    background-color: white;
+    z-index: 999;
+}
+.menu{
+    float:right;
+   
+}
+
+nav li{
+    display: inline-block;  
+}
+
+.banner{
+   display:table;
+   position:relative;
+   top:200px;
+   height:500px;
+   border-left: 2px solid black;
+   padding-left: 30px; 
+}
+
+.banner-txt{
+  display: table-cell;
+  vertical-align: top;
+  line-height:50px;
+}
+
+
+
