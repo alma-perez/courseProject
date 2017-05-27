@@ -83,3 +83,12 @@ Alma Pérez 23.05.17
 .col-sm-12{width:100%} 
 
 }
+
+@media (max-width:600px){
+    article{
+        padding:50px;
+        border-bottom: 1px solid lightgray;
+    }
+
+}
+
