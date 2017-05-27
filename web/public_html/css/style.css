@@ -38,6 +38,20 @@ body{
     font-weight: 300;   
 }
 
+
+
+nav li a{
+    display:block;
+    padding: 15px 10px;
+    font-size: 13px;
+    font-weight: 500;
+    color:#696c6d; 
+}
+nav li a:hover{
+    color:#56bdbd; 
+}
+
+
 a {
     text-decoration:none;
 }
@@ -113,12 +127,13 @@ nav li{
    height:500px;
    border-left: 2px solid #000;
    padding-left: 30px; 
+   animation:fadeInUp 5s;
 }
 
 .banner-txt{
   display: table-cell;
   vertical-align: top;
-  line-height:50px;
+  line-height:60px;
 }
 
 .swiss{
