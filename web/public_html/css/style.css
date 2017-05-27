@@ -13,8 +13,8 @@ Alma Pérez 23.05.17
 
 
 /*fonts*********/
-h1{font-size: 50px; font-weight: 700px}
-h2{}
+h1{font-size: 50px; font-weight:700;}
+h2{font-size:15px;text-transform: uppercase}
 h3{}
 h4{}
 h5{}
@@ -68,6 +68,22 @@ li{
 #case-study{
     background-color: #fff;
 }
+
+#company{
+    background-color:#f6f9f8;
+}
+
+#contact{
+     background-color: #f6f9f8;
+}
+
+.logos{
+    background-color:#f6f9f8;
+}
+
+.facts{
+    background-color:#f6f9f8;
+}
 header{
     display:block;
     position:relative;
@@ -78,7 +94,7 @@ header{
     position:fixed;
     top:0px;
     width: 100%;
-    background-color: white;
+    background-color: #fff;
     z-index: 999;
 }
 .menu{
@@ -95,7 +111,7 @@ nav li{
    position:relative;
    top:200px;
    height:500px;
-   border-left: 2px solid black;
+   border-left: 2px solid #000;
    padding-left: 30px; 
 }
 
@@ -106,8 +122,8 @@ nav li{
 }
 
 .swiss{
-   border-top: 2px solid #000;
-   width:50px;
+   border-top: 3px solid #000;
+   width:20px;
    
 }
 .boxed{
@@ -116,12 +132,9 @@ nav li{
 }
 
 ul>li{
-    display:inline-block;  
-    
+    display:inline-block; 
 }
 
 .item{
     width:100%;
-   
-  
 }
