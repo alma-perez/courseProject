@@ -202,6 +202,7 @@ nav li{
 .boxed{
     width:25%;
     background-color: #fff;
+    padding: 100px 70px;
 }
 
 ul>li{
@@ -216,6 +217,9 @@ ul>li{
 }
 .m-t-20{
     margin-top:20px;
+}
+.m-t-10{
+    margin-top: 10px;
 }
 
 .mark{
