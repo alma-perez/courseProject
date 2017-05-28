@@ -3,6 +3,13 @@ courseProject
 Alma Pérez 23.05.17
 */
 
+
+/*elements*********/
+
+.img-responsive{
+    width:100%;
+}
+
 /*grid for desktop*********/
 .row{
     overflow:hidden;   
@@ -84,11 +91,76 @@ Alma Pérez 23.05.17
 
 }
 
-@media (max-width:600px){
+@media (max-width:600px){   
+    .content{
+        padding:30px;
+    }
+    
+    .header-logo{
+        margin: 0 auto;
+        display: block;
+        margin-bottom: 20px;
+    }
+    
+    .menu{
+        float:none;
+        display:none;
+    }
+    
+    nav li{
+        display:block;
+        text-align: center;
+        border-top:1px solid #56bdbd;
+        border-bottom:1px solid #56bdbd;
+        margin-top:10px;
+        padding: 2px 0px;
+    }
+    
+    ul.social{
+        display: inline-block;
+        text-align: center;
+        
+    }
+    .social .icon-nav{
+        display:none;
+    }
+    
     article{
         padding:50px;
-        border-bottom: 1px solid lightgray;
     }
+    
+    .box-border{
+    border-left: none;
+    border-top: 1px solid #ccc;
+    
 
+    }
+    
+    .logos{
+       display:none;
+    }
+    
+  .banner {
+        border-left: none;
+        padding-left: 30px;
+        animation:fadeInUp 4s;
+    }
+    
+    .mark{
+        padding:0 30px 150px 0;
+    }
+    
+    .smaller-bolder{
+        text-align: left;
+    }
+    
+    .facts{
+        display:none;
+    }
+    .light{
+        margin-top: 10px;
+    }
+    .swiss{
+        display:none;
+    }
 }
-
