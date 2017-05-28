@@ -163,8 +163,41 @@ article p{
 
 .icon{
     text-align: center;
-    color:#56bdbd;
+    color:#56bdbd; 
 }
+
+.icon-nav{
+  padding: 18px 10px;;
+  color:#696c6d;
+ 
+  
+}
+.fa-facebook:hover{
+    padding:7px 9px;
+    border-radius: 2px;
+    background-color:#3b5998;
+    color:#fff;
+}
+.fa-twitter:hover{
+    padding:7px 9px;
+    border-radius: 2px;
+    background-color:#1dcaff;
+    color:#fff;
+}
+.fa-instagram:hover{
+    padding:7px 9px;
+    border-radius: 2px;
+    background-color:#ff33ff;
+    color:#fff;
+}
+.fa-youtube:hover{
+    padding:7px 9px;
+    border-radius: 2px;
+    background-color:#ff0000;
+    color:#fff;
+}
+
+
 .icon-footer{
     text-align: center;
     color:#56bdbd;
@@ -201,6 +234,11 @@ nav li{
     display: inline-block;  
 }
 
+
+.social > li{
+    display: inline-block;
+    color:red;
+}
 .banner{
    display:table;
    position:relative;
