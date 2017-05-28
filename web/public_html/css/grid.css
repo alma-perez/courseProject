@@ -4,11 +4,9 @@ Alma Pérez 23.05.17
 */
 
 
-/*elements*********/
 
-.img-responsive{
-    width:100%;
-}
+
+
 
 /*grid for desktop*********/
 .row{
@@ -104,7 +102,7 @@ Alma Pérez 23.05.17
     
     .menu{
         float:none;
-        display:none;
+        display:none;       
     }
     
     nav li{
@@ -132,15 +130,13 @@ Alma Pérez 23.05.17
     .box-border{
     border-left: none;
     border-top: 1px solid #ccc;
-    
-
     }
     
     .logos{
        display:none;
     }
     
-  .banner {
+    .banner {
         border-left: none;
         padding-left: 30px;
         animation:fadeInUp 4s;
@@ -162,5 +158,11 @@ Alma Pérez 23.05.17
     }
     .swiss{
         display:none;
+    }
+    ul.tags{
+    display:none;
+    }
+    .mk{
+        width:100%;
     }
 }
