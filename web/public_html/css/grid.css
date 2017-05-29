@@ -35,6 +35,32 @@ Alma Pérez 23.05.17
 .col-11{width:91.5%}
 .col-12{width:100%} 
 
+
+/*weird sizes*/
+@media(max-width:1200px){
+        
+        .content{
+            padding:20px;
+        }
+    
+        .logos{
+            display:none;
+        }  
+        .swiss{
+           display:none;
+        }   
+}
+      
+@media(max-width:801px){
+       .facts{
+            display:none;
+        }  
+        .swiss{
+            display:none;
+        }
+
+        
+}    
 /*grid for tablets*********/
 @media (max-width:900px){
     .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, 
@@ -61,6 +87,27 @@ Alma Pérez 23.05.17
 .col-md-12{width:100%}  
 
 }
+
+
+@media (max-width:900px){   
+
+    .content{
+        padding:20px;
+    }
+
+    .swiss{
+        display:none;
+    }
+    
+   .logos{
+       display:none;
+    }
+    
+    .skills{
+        margin-top: 10px;
+    }
+}
+
 
 /*grid for smartphones*********/
 @media (max-width:600px){
@@ -91,7 +138,7 @@ Alma Pérez 23.05.17
 
 @media (max-width:600px){   
     .content{
-        padding:30px;
+        padding:20px;
     }
     
     .header-logo{
@@ -166,3 +213,4 @@ Alma Pérez 23.05.17
         width:100%;
     }
 }
+
