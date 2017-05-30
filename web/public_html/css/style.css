@@ -247,7 +247,6 @@ nav li{
     display: inline-block;  
 }
 
-
 .social > li{
     display: inline-block;
     color:red;
@@ -306,10 +305,10 @@ ul>li{
     clear:both;
 }
 .grid{
-    margin:0!important;
-    padding:2px;
-    float:left;
+    margin-bottom: 0px!important;
+    margin-right:5px!important; 
 }
+
 .grid-logos{
     margin:0!important;
     padding:20px;   
