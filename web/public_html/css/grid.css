@@ -3,11 +3,6 @@ courseProject
 Alma Pérez 23.05.17
 */
 
-
-
-
-
-
 /*grid for desktop*********/
 .row{
     overflow:hidden;   
@@ -46,6 +41,7 @@ Alma Pérez 23.05.17
         .logos{
             display:none;
         }  
+        
         .swiss{
            display:none;
         }   
@@ -54,13 +50,13 @@ Alma Pérez 23.05.17
 @media(max-width:801px){
        .facts{
             display:none;
-        }  
+        } 
+        
         .swiss{
             display:none;
-        }
-
-        
+        } 
 }    
+
 /*grid for tablets*********/
 @media (max-width:900px){
     .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, 
@@ -85,9 +81,7 @@ Alma Pérez 23.05.17
 .col-md-10{width:83%}   
 .col-md-11{width:91.5%} 
 .col-md-12{width:100%}  
-
 }
-
 
 @media (max-width:900px){   
 
@@ -175,8 +169,8 @@ Alma Pérez 23.05.17
     }
     
     .box-border{
-    border-left: none;
-    border-top: 1px solid #ccc;
+        border-left: none;
+        border-top: 1px solid #ccc;
     }
     
     .logos{
