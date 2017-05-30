@@ -100,6 +100,14 @@ Alma Pérez 23.05.17
     .skills{
         margin-top: 10px;
     }
+    
+    ul.tags{
+    display:none;
+    }
+    
+    h2.space{
+        margin-bottom:20px;
+    }
 }
 
 

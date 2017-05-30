@@ -192,7 +192,7 @@ footer .content{
     text-transform: uppercase;
     font-weight: 600;
     color:#56bdbd; 
-    animation:bounceInRight 3s infinite; 
+    animation:bounceInRight 1.5s infinite; 
 }
 
 .box-border{
