@@ -20,7 +20,7 @@ a {
 }
 
 /*fonts*********/
-h1{font-size: 50px;font-weight:700;}
+h1{font-size: 48px;font-weight:700;}
 h2{font-size:15px;text-transform: uppercase}
 h3{}
 h4{}
@@ -259,8 +259,8 @@ article p{
 .banner{
     display:table;
     position:relative;
-    top:100px;
-    height:420px;
+    top:120px;
+    height:380px;
     border-left: 2px solid #000;
     padding-left: 30px; 
     animation:fadeInUp 4s;
@@ -269,7 +269,7 @@ article p{
 .banner-txt{
     display: table-cell;
     vertical-align: top;
-    line-height:60px;
+    line-height:55px;
 }
 
 .swiss{
