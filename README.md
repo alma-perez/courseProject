@@ -1,2 +1,2 @@
 # courseProject
-![alt tag](http://almaclase.esy.es/cloud/desktop.jpg "code")
+![alt tag](http://almaclase.esy.es/cloud/desktop.jpg "Course Project")
