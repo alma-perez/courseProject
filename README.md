@@ -10,7 +10,7 @@ Uso de las medias queries
 # Built With
 * [Google Fonts](https://fonts.google.com/) - Fresh Fonts
 * [Font Awesome](http://fontawesome.io/) - The iconic font and css toolkit
-* [Animate CSS] (Just-add-water CSS animations) - Just-add-water CSS animations
+* [Animate CSS] (https://daneden.github.io/animate.css/) - Just-add-water CSS animations
 
 ## Desarrollo
 1. Definición de la estructura general por bloques.
