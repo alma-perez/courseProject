@@ -270,6 +270,7 @@ article p{
     display: table-cell;
     vertical-align: top;
     line-height:55px;
+    height:400px;
 }
 
 .swiss{
