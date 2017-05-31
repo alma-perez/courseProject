@@ -8,9 +8,13 @@ Uso de todas las herramientas explicadas durante el curso. Implementación del d
 Uso de las medias queries y grids por colummnas.
 
 # Built With
-* [Google Fonts](https://fonts.google.com/) - Fresh Fonts
-* [Font Awesome](http://fontawesome.io/) - The iconic font and css toolkit
-* [Animate CSS](https://daneden.github.io/animate.css/) - Just-add-water CSS animations
+* [Google Fonts](https://fonts.google.com/) - Fresh Fonts.
+* [Font Awesome](http://fontawesome.io/) - The iconic font and css toolkit.
+* [Animate CSS](https://daneden.github.io/animate.css/) - Just-add-water CSS animations.
+### Tools
+* [Netbeans](https://netbeans.org/) - IDE.
+* [Github](https://github.com/) - The web-based Git. 
+
 
 ## Desarrollo
 1. Establecimiento de requerimientos.
