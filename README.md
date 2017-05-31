@@ -13,12 +13,13 @@ Uso de las medias queries y grids por colummnas.
 * [Animate CSS](https://daneden.github.io/animate.css/) - Just-add-water CSS animations
 
 ## Desarrollo
-1. Definición de la estructura general por bloques.
+1. Establecimiento de requerimientos.
 2. Creación del proyecto y estructura de directorios. 
-3. Inclusión de cdns y recursos de terceros (dependencias)
-4. Estructura html y creación del grid css.
-4. Desarrollo de html y definición de estilos.
-5. Responsive y medias queries.
-6. Revisión de estilos y revisión de errores (testeo).
-7. Subida a servidor.
+3. Creación de repositorio GIT (control de versiones).
+4. Inclusión de cdns y recursos de terceros (dependencias)
+5. Definicion de la estructura html y creación del grid css.
+6. Desarrollo del html y definición de estilos y maquetación.
+7. Responsive y medias queries.
+8. Revisión de estilos y revisión de errores (testeo).
+9. Subida a servidor.
 
