@@ -14,10 +14,10 @@ Uso de todas las herramientas explicadas durante el curso. Implementación del d
 ## Desarrollo
 1. Definición de la estructura general por bloques.
 2. Creación del proyecto y estructura de directorios. 
-4. Inclusión de cdns y recursos de terceros (dependencias)
-3. Estructura html
-4. Grid css 
-5. Maquetación
-6. Revisión de estilos y corrección de errores.
-7. Subida a servidor
+3. Inclusión de cdns y recursos de terceros (dependencias)
+4. Estructura html y creación del grid css.
+4. Desarrollo de hmtl y definición de estilos.
+5. Responsive.
+6. Revisión de estilos y revisión de errores (testeo).
+7. Subida a servidor.
 
