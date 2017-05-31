@@ -17,7 +17,7 @@ Uso de las medias queries y grids por colummnas.
 
 
 ## Desarrollo
-1. Establecimiento de requerimientos.
+1. Establecimiento de requisitos.
 2. Creación del proyecto y estructura de directorios. 
 3. Creación de repositorio GIT (control de versiones).
 4. Inclusión de cdns y recursos de terceros (dependencias)
