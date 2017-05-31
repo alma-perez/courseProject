@@ -10,7 +10,7 @@ Uso de las medias queries y grids por colummnas.
 # Built With
 * [Google Fonts](https://fonts.google.com/) - Fresh Fonts
 * [Font Awesome](http://fontawesome.io/) - The iconic font and css toolkit
-* [Animate CSS] (https://daneden.github.io/animate.css/) - Just-add-water CSS animations
+* [Animate CSS](https://daneden.github.io/animate.css/) - Just-add-water CSS animations
 
 ## Desarrollo
 1. Definición de la estructura general por bloques.
