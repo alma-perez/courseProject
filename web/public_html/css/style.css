@@ -306,9 +306,9 @@ ul>li{
 }
 
 .item{
-    width:100%;
-    padding:-10px;
+    width:100%;  
 }
+
 .clear{
     clear:both;
 }
@@ -348,6 +348,9 @@ a.button:hover{
 }
 .m-t-10{
     margin-top: 10px;
+}
+.m-b-40{
+    margin-bottom: 40px;
 }
 .mark{
     color:lightgray;
